@@ -213,3 +213,19 @@ body {
   width: 100%;
   display: none;
 }
+
+.tab-test {
+  margin: 0% 5px;
+  padding: 0% 2%;
+  box-sizing: border-box;
+  background: #333;
+  color: white;
+  cursor: pointer;
+}
+
+.topics {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
